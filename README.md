@@ -6,3 +6,4 @@ Threadsafe Red Black Tree written in Rust. Nodes are wrapped by
 Implementation based on Chapter 15 of [The Complete Rust Programming Reference Guide][TCRPRG] red-black tree and binary search tree.
 
 
+[TCRPRG]: https://github.com/PacktPublishing/The-Complete-Rust-Programming-Reference-Guide/
